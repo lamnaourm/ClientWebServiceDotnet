@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\projs\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\HP\Documents\projs\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\HP\Documents\projs\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\HP\Documents\projs\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\HP\Documents\projs\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\HP\Documents\projs\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
